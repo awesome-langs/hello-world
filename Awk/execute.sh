@@ -1,1 +1,1 @@
-gawk -f src/example.awk
+gawk -f src/example.awk  

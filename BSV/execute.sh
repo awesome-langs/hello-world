@@ -1,0 +1,1 @@
+bsc -verilog -g example src/example.bsv && bsc -o sim -e example src/example.v && ./sim

@@ -5,6 +5,12 @@ Agda/src/MAlonzo
 Agda/src/example
 Agda/src/example.agdai
 Apl/.apl.history
+BSV/src/example.v
+BSV/src/example.bo
+BSV/sim
+BH/src/example.v
+BH/src/example.bo
+BH/sim
 Cobol/example
 Coq/.example.aux
 Coq/example.glob
@@ -40,12 +46,14 @@ PureScript/.spago
 PureScript/output
 V/src/example
 Vala/example
+Verilog/example
 Reason/example.ml
 Rust/example
 Scala/Example.class
 Scala/Example$.class
 Scala/Example.tasty
 Swift/example
+SystemVerilog/example
 TypeScript/dist
 TypeScript/node_modules
 VisualBasic/bin

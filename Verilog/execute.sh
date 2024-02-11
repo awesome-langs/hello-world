@@ -1,0 +1,1 @@
+iverilog -o example src/example.v && vvp ./example
