@@ -1,0 +1,1 @@
+tclsh src/example.tcl
