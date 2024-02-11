@@ -1,0 +1,1 @@
+dmd src/example.d && ./example

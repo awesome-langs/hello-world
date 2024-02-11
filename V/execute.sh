@@ -1,0 +1,1 @@
+v src/example.v && ./src/example

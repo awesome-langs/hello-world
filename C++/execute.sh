@@ -1,0 +1,1 @@
+g++ -std=c++23 src/example.cpp -o example && ./example

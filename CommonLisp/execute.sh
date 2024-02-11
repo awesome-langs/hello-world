@@ -1,0 +1,1 @@
+sbcl --script src/example.lisp

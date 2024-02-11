@@ -1,0 +1,1 @@
+swiftc src/example.swift && ./example

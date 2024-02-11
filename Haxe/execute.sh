@@ -1,0 +1,1 @@
+haxe -p ./src -m Example.hx --neko example.n && neko example.n

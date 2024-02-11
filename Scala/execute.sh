@@ -1,0 +1,1 @@
+scalac src/Example.scala && scala Example

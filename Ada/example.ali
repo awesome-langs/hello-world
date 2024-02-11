@@ -1,0 +1,51 @@
+V "GNAT Lib v13"
+M P W=b
+P ZX
+
+RN
+RV NO_IO
+
+U example%b		example.adb		f2deccef NE OO SU
+W ada%s			ada.ads			ada.ali
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+
+D ada.ads		19700101000001 76789da1 ada%s
+D a-except.ads		19700101000001 2a7d8d70 ada.exceptions%s
+D a-ioexce.ads		19700101000001 40018c65 ada.io_exceptions%s
+D a-stream.ads		19700101000001 119b8fb3 ada.streams%s
+D a-string.ads		19700101000001 90ac6797 ada.strings%s
+D a-sttebu.ads		19700101000001 f1ad67a2 ada.strings.text_buffers%s
+D a-stuten.ads		19700101000001 c6ced0ae ada.strings.utf_encoding%s
+D a-tags.ads		19700101000001 9eaa38c6 ada.tags%s
+D a-textio.ads		19700101000001 5c2c6153 ada.text_io%s
+D a-unccon.ads		19700101000001 0e9b276f ada.unchecked_conversion%s
+D example.adb		20240211085959 aef2adbc example%b
+D interfac.ads		19700101000001 15f799c2 interfaces%s
+D i-cstrea.ads		19700101000001 e53d8b8e interfaces.c_streams%s
+D system.ads		19700101000001 426dafb8 system%s
+D s-crtl.ads		19700101000001 8a0692f8 system.crtl%s
+D s-exctab.ads		19700101000001 91bef6ef system.exception_table%s
+D s-ficobl.ads		19700101000001 dc5161d4 system.file_control_block%s
+D s-parame.ads		19700101000001 d494a4a6 system.parameters%s
+D s-putima.ads		19700101000001 17291fe4 system.put_images%s
+D s-secsta.ads		19700101000001 578279f5 system.secondary_stack%s
+D s-soflin.ads		19700101000001 df77073e system.soft_links%s
+D s-stache.ads		19700101000001 0b81c1fe system.stack_checking%s
+D s-stalib.ads		19700101000001 1c9580f6 system.standard_library%s
+D s-stoele.ads		19700101000001 ab5468e4 system.storage_elements%s
+D s-stoele.adb		19700101000001 8f5a9db6 system.storage_elements%b
+D s-traent.ads		19700101000001 c81cbf8c system.traceback_entries%s
+D s-unstyp.ads		19700101000001 fa2a7f59 system.unsigned_types%s
+D s-wchcon.ads		19700101000001 d9032363 system.wch_con%s
+G a e
+G c Z b b [example standard 3 11 none]
+X 1 ada.ads
+16K9*Ada 20e8 11|1r6 6r7
+X 9 a-textio.ads
+58K13*Text_IO 787e16 11|1w10 6r11
+566U14*Put_Line 11|6s19
+X 11 example.adb
+3U11*Example 3b11 10l5 10t12
+4U14 Hello 4b14 7l8 7t13 9s4
+

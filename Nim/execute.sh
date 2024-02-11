@@ -1,0 +1,1 @@
+nim c -o:example src/example.nim && ./example

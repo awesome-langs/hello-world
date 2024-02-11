@@ -1,0 +1,1 @@
+erlc src/example.erl && erl -noshell -s example main -s init stop

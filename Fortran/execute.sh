@@ -1,0 +1,1 @@
+gfortran src/example.f90 -o example && ./example

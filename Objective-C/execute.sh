@@ -1,0 +1,1 @@
+clang -fobjc-nonfragile-abi -fobjc-runtime=gnustep-2.0 src/example.m -lgnustep-base -lobjc -o example && ./example

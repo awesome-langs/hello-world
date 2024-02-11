@@ -1,0 +1,1 @@
+cd src && agda -c example.agda && ./example

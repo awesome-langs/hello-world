@@ -1,0 +1,1 @@
+pwsh src/example.ps1

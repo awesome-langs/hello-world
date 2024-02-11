@@ -1,0 +1,1 @@
+emacs --script src/example.el

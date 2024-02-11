@@ -1,0 +1,1 @@
+ghc src/example.hs -outputdir out -o example && ./example

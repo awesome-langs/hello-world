@@ -1,0 +1,1 @@
+zig run src/example.zig

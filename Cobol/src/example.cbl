@@ -1,0 +1,17 @@
+IDENTIFICATION DIVISION.
+PROGRAM-ID. example.
+
+DATA DIVISION.
+
+PROCEDURE DIVISION.
+
+main.
+    PERFORM hello
+    STOP RUN.
+
+hello.
+    DISPLAY 'Hello World!'.
+
+END PROGRAM example.
+
+

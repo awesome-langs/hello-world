@@ -1,0 +1,1 @@
+spago install && spago build && spago run
