@@ -13,5 +13,3 @@ hello.
     DISPLAY 'Hello World!'.
 
 END PROGRAM example.
-
-

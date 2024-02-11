@@ -1,0 +1,1 @@
+xonsh src/example.xsh
