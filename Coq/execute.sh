@@ -1,0 +1,1 @@
+coqc src/example.v -o example

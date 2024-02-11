@@ -6,10 +6,10 @@ Agda/src/example
 Agda/src/example.agdai
 Cobol/example
 Coq/.example.aux
-Coq/exmaple.glob
-Coq/exmaple.vo
-Coq/exmaple.vok
-Coq/exmaple.vos
+Coq/example.glob
+Coq/example.vo
+Coq/example.vok
+Coq/example.vos
 C/example
 C#/bin
 C#/obj
