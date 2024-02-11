@@ -1,2 +1,2 @@
 # hello-world
-"HelloWorld" Program written in multiple programming languages.
+Single-file "helloWorld" programs written in multiple programming languages.
