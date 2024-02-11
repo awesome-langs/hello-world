@@ -1,1 +1,1 @@
-fpc -Mdelphi src/example.pas && ./src/example
+fpc -Mobjpas src/example.pas && ./src/example
