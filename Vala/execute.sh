@@ -1,0 +1,1 @@
+valac src/example.vala && ./example

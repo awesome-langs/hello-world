@@ -37,6 +37,7 @@ Pascal/src/example.o
 PureScript/.spago
 PureScript/output
 V/src/example
+Vala/example
 Reason/example.ml
 Rust/example
 Scala/Example.class
