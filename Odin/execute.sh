@@ -1,0 +1,1 @@
+odin build src/example.odin -file -out:example && ./example

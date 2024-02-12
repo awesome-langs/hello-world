@@ -1,0 +1,1 @@
+ozc -c src/example.oz && ozengine example.ozf

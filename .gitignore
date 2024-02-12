@@ -50,6 +50,8 @@ Mercury/example
 Mercury/example.mh
 Nim/example
 Objective-C/example
+Odin/example
+Oz/example.ozf
 Pascal/src/example
 Pascal/src/example.o
 Pony/example
@@ -63,6 +65,7 @@ Rust/example
 Scala/Example.class
 Scala/Example$.class
 Scala/Example.tasty
+StandardML/example
 Swift/example
 SystemVerilog/example
 TypeScript/dist

@@ -1,0 +1,1 @@
+mlton -output example src/example.sml && ./example
