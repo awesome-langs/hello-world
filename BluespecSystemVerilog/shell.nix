@@ -3,5 +3,5 @@ let
   pkgs = import nixpkgs { config = {}; overlays = []; };
 in
 pkgs.mkShell {
-  packages = [ pkgs.bluespec ];
+  packages = [ pkgs.bluespec pkgs.verilog ];
 }
