@@ -1,0 +1,1 @@
+pakcs :load src/example.curry :eval main :quit
