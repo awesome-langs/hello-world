@@ -61,6 +61,9 @@ V/src/example
 Vala/example
 Verilog/example
 Reason/example.ml
+ReScript/lib
+ReScript/node_modules
+ReScript/src/example.res.js
 Rust/example
 Scala/Example.class
 Scala/Example$.class

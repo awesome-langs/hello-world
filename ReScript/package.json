@@ -1,0 +1,7 @@
+{
+	"type": "module",
+	"devDependencies": {
+		"rescript": "^11.0.1",
+		"@rescript/core": "^0.7.0"
+	}
+}

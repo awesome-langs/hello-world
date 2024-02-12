@@ -1,0 +1,1 @@
+scilab-cli -f src/example.scilab

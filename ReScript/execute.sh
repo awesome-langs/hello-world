@@ -1,0 +1,1 @@
+pnpm install && ./node_modules/.bin/rescript && node src/example.res.js

@@ -540,13 +540,13 @@ ReScript
 reStructuredText
 REXX
 Rez
-Rich Text Format
+Rich Text Frmat
 Ring
 Riot
 RMarkdown
 RobotFramework
 robots.txt
-Roff
+Roffo
 Roff Manpage
 Rouge
 RouterOS Script
