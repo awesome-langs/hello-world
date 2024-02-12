@@ -1,0 +1,1 @@
+jconsole < src/example.ijs

@@ -1,0 +1,1 @@
+mmc src/example.m --use-subdirs -o example && ./example

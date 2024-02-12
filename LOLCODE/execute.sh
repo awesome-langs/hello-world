@@ -1,0 +1,1 @@
+lolcode-lci src/example.lol

@@ -1,0 +1,1 @@
+valac src/example.gs && ./example
