@@ -1,1 +1,1 @@
-spago install && spago build && spago run
+spago install && spago build && spago run -m Example

@@ -1,1 +1,0 @@
-vim -S src/example.vim

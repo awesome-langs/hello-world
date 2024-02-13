@@ -5,4 +5,4 @@ hello() ->
     io:format("Hello World!~n").
 
 main() ->
-    hello()
+    hello().

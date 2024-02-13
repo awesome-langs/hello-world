@@ -1,6 +1,6 @@
 module example();
     function Action hello();
-        $display("Hello, World!");
+        $display("Hello World!");
     endfunction
 
     rule main;

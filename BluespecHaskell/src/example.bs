@@ -3,7 +3,7 @@ package example where
 example :: Module Empty
 example = 
     module 
-        let hello =  $display "Hello, World!";
+        let hello =  $display "Hello World!";
         rules 
             "main": when True ==> do 
                 hello; 

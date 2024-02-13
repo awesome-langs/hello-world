@@ -3,5 +3,5 @@ let
   pkgs = import nixpkgs { config = {}; overlays = []; };
 in
 pkgs.mkShell {
-  packages = [ pkgs.purescript pkgs.spago pkgs.nodejs_20 ];
+  packages = [ pkgs.git pkgs.purescript pkgs.spago pkgs.nodejs_20 ];
 }

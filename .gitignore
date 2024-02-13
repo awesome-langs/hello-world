@@ -1,4 +1,6 @@
-Ada/exampli.ali
+./output.txt
+
+Ada/example.ali
 Ada/example.o
 Ada/example
 Agda/src/MAlonzo
@@ -28,6 +30,7 @@ D/example.o
 Dafny/src/example.dll
 Dafny/src/example.runtimeconfig.json
 Elm/elm-stuff
+Elm/node_modules
 Erlang/erl_crash.dump
 Erlang/example.beam
 F*/out
@@ -42,6 +45,7 @@ Haskell/out
 Haskell/example
 Haxe/example.n
 Hy/src/__pycache__
+Idris/build
 Java/Example.class
 Kotlin/META-INF
 Kotlin/ExampleKt.class
@@ -75,3 +79,5 @@ TypeScript/dist
 TypeScript/node_modules
 VisualBasic/bin
 VisualBasic/obj
+Zig/example
+Zig/example.o

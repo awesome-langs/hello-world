@@ -1,5 +1,5 @@
 method hello() {
-    print "Hello World!";
+    print "Hello World!\n";
 }
 
 method Main() {

@@ -1,4 +1,4 @@
 (defun hello ()
-  (message "Hello World!"))
+  (princ "Hello World!\n"))
 
 (hello)

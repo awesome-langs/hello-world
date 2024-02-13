@@ -10,4 +10,4 @@ postulate putStrLn : String → IO ⊤
 {-# COMPILE GHC putStrLn = putStrLn . T.unpack #-}
 
 main : IO ⊤
-main = putStrLn "Hello world!"
+main = putStrLn "Hello World!"

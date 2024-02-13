@@ -1,0 +1,5 @@
+{
+	"dependencies": {
+		"@albertdahlin/elm-posix": "^1.1.0"
+	}
+}

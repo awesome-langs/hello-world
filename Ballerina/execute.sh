@@ -1,1 +1,1 @@
-gnatmake src/example.adb -o example && ./example
+bal run src/example.bal

@@ -1,1 +1,1 @@
-refmt src/example.re -p ml > example.ml && ocaml src/example.ml
+refmt src/example.re -p ml > example.ml && ocaml example.ml

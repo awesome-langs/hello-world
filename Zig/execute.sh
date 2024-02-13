@@ -1,1 +1,1 @@
-zig run src/example.zig
+zig build-exe src/example.zig && ./example

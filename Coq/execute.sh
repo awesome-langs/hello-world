@@ -1,1 +1,1 @@
-coqc src/example.v -o example
+coqc src/example.v -o example.vo
