@@ -31,6 +31,7 @@ Dafny/src/example.dll
 Dafny/src/example.runtimeconfig.json
 Elm/elm-stuff
 Elm/node_modules
+Elm/pnpm-lock.yaml
 Erlang/erl_crash.dump
 Erlang/example.beam
 F*/out
@@ -67,6 +68,7 @@ Verilog/example
 Reason/example.ml
 ReScript/lib
 ReScript/node_modules
+ReScript/pnpm-lock.yaml
 ReScript/src/example.res.js
 Rust/example
 Scala/Example.class
@@ -77,6 +79,7 @@ Swift/example
 SystemVerilog/example
 TypeScript/dist
 TypeScript/node_modules
+TypeScript/pnpm-lock.yaml
 VisualBasic/bin
 VisualBasic/obj
 Zig/example
