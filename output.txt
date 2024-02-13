@@ -47,7 +47,7 @@ Build succeeded.
     0 Warning(s)
     0 Error(s)
 
-Time Elapsed 00:00:00.58
+Time Elapsed 00:00:00.52
 Hello World!
 --------------------------
 Enter ./C++:
@@ -98,7 +98,7 @@ Enter ./Elm:
 Lockfile is up to date, resolution step is skipped
 Already up to date
 
-Done in 306ms
+Done in 269ms
 Hello World!
 --------------------------
 Enter ./Elvish:
@@ -120,7 +120,7 @@ Build succeeded.
     0 Warning(s)
     0 Error(s)
 
-Time Elapsed 00:00:00.52
+Time Elapsed 00:00:00.55
 Hello World!
 --------------------------
 Enter ./F#:
@@ -133,7 +133,7 @@ Build succeeded.
     0 Warning(s)
     0 Error(s)
 
-Time Elapsed 00:00:00.55
+Time Elapsed 00:00:00.51
 Hello World!
 --------------------------
 Enter ./F*:
@@ -194,12 +194,7 @@ Enter ./Genie:
 Hello World!
 --------------------------
 Enter ./Gleam:
-  Resolving versions
-Downloading packages
- Downloaded 1 package in 0.01s
-  Compiling gleam_stdlib
-  Compiling example
-   Compiled in 0.68s
+   Compiled in 0.01s
     Running example.main
 Hello World!
 --------------------------
@@ -278,14 +273,14 @@ Hint: used config file '/nix/store/kw03dkxbwz894w2dh9a65h6j38zch8vx-x86_64-unkno
 ..........................................................
 Hint:  [Link]
 Hint: gc: refc; opt: none (DEBUG BUILD, `-d:release` generates faster code)
-39423 lines; 0.303s; 49.105MiB peakmem; proj: /home/nixos/awesome-langs/hello-world/Nim/src/example.nim; out: /home/nixos/awesome-langs/hello-world/Nim/example [SuccessX]
+39423 lines; 0.455s; 49.156MiB peakmem; proj: /home/nixos/awesome-langs/hello-world/Nim/src/example.nim; out: /home/nixos/awesome-langs/hello-world/Nim/example [SuccessX]
 Hello World!
 --------------------------
 Enter ./Nushell:
 Hello World!
 --------------------------
 Enter ./Objective-C:
-2024-02-13 06:17:04.278 example[2408849:2408849] Hello World!
+2024-02-13 07:58:47.162 example[394633:394633] Hello World!
 --------------------------
 Enter ./OCaml:
 Hello World!
@@ -340,70 +335,6 @@ Enter ./Prolog:
 Hello World!
 --------------------------
 Enter ./PureScript:
-[info] Installing 3 dependencies.
-[info] Searching for packages cache metadata..
-[info] Recent packages cache metadata found, using it..
-[info] Installing "console"
-[info] Installing "prelude"
-[info] Installing "effect"
-[info] Installation complete.
-[ 1 of 57] Compiling Type.Proxy
-[ 3 of 57] Compiling Data.Unit
-[ 2 of 57] Compiling Data.Void
-[ 4 of 57] Compiling Record.Unsafe
-[ 5 of 57] Compiling Data.NaturalTransformation
-[ 6 of 57] Compiling Data.Boolean
-[ 7 of 57] Compiling Control.Semigroupoid
-[ 8 of 57] Compiling Control.Category
-[ 9 of 57] Compiling Data.Symbol
-[11 of 57] Compiling Data.Semigroup
-[10 of 57] Compiling Data.HeytingAlgebra
-[12 of 57] Compiling Data.Semiring
-[13 of 57] Compiling Data.Show
-[14 of 57] Compiling Data.Ring
-[15 of 57] Compiling Data.Generic.Rep
-[16 of 57] Compiling Data.Eq
-[17 of 57] Compiling Data.BooleanAlgebra
-[18 of 57] Compiling Data.CommutativeRing
-[19 of 57] Compiling Data.Ordering
-[20 of 57] Compiling Data.EuclideanRing
-[21 of 57] Compiling Data.Ord
-[22 of 57] Compiling Data.DivisionRing
-[23 of 57] Compiling Data.Field
-[24 of 57] Compiling Data.Function
-[25 of 57] Compiling Data.Monoid
-[27 of 57] Compiling Data.Bounded
-[26 of 57] Compiling Data.Reflectable
-[28 of 57] Compiling Data.Functor
-[29 of 57] Compiling Control.Apply
-[30 of 57] Compiling Data.Bounded.Generic
-[31 of 57] Compiling Data.Monoid.Generic
-[32 of 57] Compiling Control.Applicative
-[33 of 57] Compiling Control.Bind
-[34 of 57] Compiling Control.Monad
-[35 of 57] Compiling Prelude
-[36 of 57] Compiling Data.Monoid.Dual
-[37 of 57] Compiling Data.Semigroup.Generic
-[38 of 57] Compiling Data.Semigroup.First
-[39 of 57] Compiling Data.Monoid.Conj
-[40 of 57] Compiling Data.Monoid.Disj
-[41 of 57] Compiling Effect
-[42 of 57] Compiling Data.Ring.Generic
-[43 of 57] Compiling Data.Show.Generic
-[44 of 57] Compiling Data.HeytingAlgebra.Generic
-[45 of 57] Compiling Data.Semigroup.Last
-[46 of 57] Compiling Data.Monoid.Additive
-[47 of 57] Compiling Data.Ord.Generic
-[48 of 57] Compiling Data.Monoid.Multiplicative
-[49 of 57] Compiling Data.Monoid.Endo
-[50 of 57] Compiling Data.Eq.Generic
-[51 of 57] Compiling Data.Semiring.Generic
-[52 of 57] Compiling Effect.Uncurried
-[55 of 57] Compiling Effect.Class
-[53 of 57] Compiling Effect.Console
-[54 of 57] Compiling Effect.Unsafe
-[56 of 57] Compiling Effect.Class.Console
-[57 of 57] Compiling Example
 [info] Build succeeded.
 [info] Build succeeded.
 Hello World!
@@ -435,11 +366,11 @@ Enter ./ReScript:
 Lockfile is up to date, resolution step is skipped
 Already up to date
 
-Done in 248ms
+Done in 310ms
 >>>> Start compiling
 Dependency on @rescript/core
 Dependency Finished
->>>> Finish compiling 17 mseconds
+>>>> Finish compiling 6 mseconds
 Hello World!
 --------------------------
 Enter ./REXX:
@@ -495,7 +426,7 @@ Enter ./TypeScript:
 Lockfile is up to date, resolution step is skipped
 Already up to date
 
-Done in 262ms
+Done in 257ms
 Hello World!
 --------------------------
 Enter ./V:
@@ -518,7 +449,7 @@ Build succeeded.
     0 Warning(s)
     0 Error(s)
 
-Time Elapsed 00:00:00.50
+Time Elapsed 00:00:00.52
 Hello World!
 --------------------------
 Enter ./Xonsh:
