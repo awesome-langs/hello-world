@@ -3,5 +3,5 @@ let
   pkgs = import nixpkgs { config = {}; overlays = []; };
 in
 pkgs.mkShell {
-  packages = [ pkgs.gleam pkgs.erlang  ];
+  packages = [ pkgs.git pkgs.wget pkgs.gleam pkgs.erlang  ];
 }

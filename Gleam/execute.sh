@@ -1,1 +1,1 @@
-gleam run
+gleam deps download && gleam run

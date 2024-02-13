@@ -9,7 +9,7 @@ execute-all() {
         if [ "$dir" != "." ]; then
             echo "Enter $dir:"
             cd "$dir" || exit 1
-            nix-shell --pure --run "bash execute.sh"
+            nix-shell --run "bash execute.sh"
             echo "--------------------------"
             cd ..
         fi

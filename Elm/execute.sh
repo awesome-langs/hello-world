@@ -1,1 +1,1 @@
-pnpm install @albertdahlin/elm-posix && ./node_modules/.bin/elm-cli run src/Example.elm
+pnpm install && ./node_modules/.bin/elm-cli run src/Example.elm
