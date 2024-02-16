@@ -1,6 +1,14 @@
 # Hello World
 This project provides "Hello World!" programs in multiple programming language along with reproducible environment to execute them (via Nix shellenv). 
 
+## File Structure
+
+There are at least 3 files for any programming languages in the corresponding folder`./{lang}`:
+
+- `./{lang}/src` : folder that stores the source file.
+- `./{lang}/shell.nix` : configuration for `nix-shell` command to create the shellenv.
+- `./{lang}/execute.sh` : commands to execute the source program.
+
 ## Usage
 
 ### 1. Install Nix Package Manager
@@ -38,4 +46,4 @@ Or run ALL programs (Warning: require a lot of time and disk space)
 
 ## Related
 
-This project is inspired by https://github.com/leachim6/hello-world
+This project is inspired by https://github.com/leachim6/hello-world.
