@@ -3,5 +3,8 @@ let
   pkgs = import nixpkgs { config = {}; overlays = []; };
 in
 pkgs.mkShell {
-  packages = [ pkgs.git pkgs.wget pkgs.gleam pkgs.erlang  ];
+  packages = [ pkgs.gleam pkgs.erlang ];
+  shellHook = ''
+    unset SSL_CERT_FILE
+  '';
 }
