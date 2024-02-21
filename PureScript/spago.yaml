@@ -1,0 +1,13 @@
+package:
+  name: example
+  dependencies:
+    - console
+    - effect
+    - prelude
+  test:
+    main: src.Example
+    dependencies: []
+workspace:
+  package_set:
+    registry: 46.2.0
+  extra_packages: {}
