@@ -61,7 +61,10 @@ Pascal/src/example
 Pascal/src/example.o
 Pony/example
 PureScript/.spago
+PureScript/node_modules
+PureScript/pnpm-lock.yaml
 PureScript/output
+PureScript/spago.lock
 V/src/example
 Vala/example
 Verilog/example
