@@ -5,6 +5,6 @@ in
 pkgs.mkShell {
   packages = [ pkgs.git pkgs.purescript pkgs.python3 pkgs.nodejs_21 pkgs.corepack_21 ];
   shellHook = ''
-    npm set strict-ssl false
+    npm config set strict-ssl false
   '';
 }
