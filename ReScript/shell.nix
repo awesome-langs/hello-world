@@ -3,8 +3,5 @@ let
   pkgs = import nixpkgs { config = {}; overlays = []; };
 in
 pkgs.mkShell {
-  packages = [ pkgs.nodejs_21 pkgs.corepack_21 ];
-  shellHook = ''
-    npm config set strict-ssl false
-  '';
+  packages = [ pkgs.nodejs_21 pkgs.corepack_21 pkgs.cacert ];
 }

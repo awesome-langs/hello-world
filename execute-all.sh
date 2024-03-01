@@ -7,7 +7,7 @@ execute-all() {
         if [ "$dir" != "." ]; then
             echo "Enter $dir:"
             cd "$dir" || exit 1
-            nix-shell --pure --run "bash execute.sh"
+            nix-shell --pure --run "bash execute.sh" --keep "http_proxy https_proxy"
             echo "--------------------------"
             cd ..
         fi
